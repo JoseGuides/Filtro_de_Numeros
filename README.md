@@ -10,10 +10,16 @@ Projeto em JavaScript que recebe uma sequência de caracteres contendo números,
 
 1. Clone o repositório
 2. Acesse a pasta do projeto
-3. Rode o comando abaixo:
+3. Instale as dependências:
 
 ```bash
-node index.js
+npm install
+```
+
+4. Rode o aplicativo:
+
+```bash
+npm start
 ```
 
 ## 💡 Exemplo
